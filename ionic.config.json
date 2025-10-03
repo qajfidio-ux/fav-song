@@ -1,0 +1,8 @@
+{
+  "name": "FavSong",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "f1766b5c"
+}
